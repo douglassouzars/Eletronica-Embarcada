@@ -1,6 +1,5 @@
 <H1>BOLA NO TUBO</H1>
 
-<<<<<<< HEAD
 Este projeto, desenvolvido para a disciplina de Eletrônica Embarcada, consiste em um desenvolvimento de firmware para controlar a posição vertical de uma bola por meio de um fluxo de ar gerado através de uma ventoinha controlada pela abertura ou fechamento de uma válvula acoplada a um motor de passo.
 
 Serão utilizados um sensor óptico refletivo para detecção da abertura total da válvula, um sensor ultrassonico para medição da altura da bola e um sensor de temperatura para compensação da medição da altura da bola. A transmissão e recepção de dados será realizada utilizando uma interface bluetooth que possibilitará a comunicação entre o sistema e o usuário (via celular ou computador).
@@ -69,4 +68,3 @@ O projeto foi realizado por 4 alunos do curso de engenharia eletronica, dividido
   <li>PEDRO: Controle PI ou PID</li>
 </ul>
 Objetivo final conforme a imagem:<img width="875" height="740" alt="image" src="https://github.com/user-attachments/assets/14256940-2174-4fa8-963d-095cd81767e7" />
->>>>>>> 10ce5c476110c0310e063e2811a4bea4080c749a
